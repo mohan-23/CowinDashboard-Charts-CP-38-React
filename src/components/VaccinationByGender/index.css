@@ -1,0 +1,23 @@
+.by-gender-cart {
+  background-color: #1c1c2b;
+  width: 100%;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 8px;
+  margin-top: 10px;
+}
+
+.by-gender-heading {
+  color: #cbd5e1;
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.pie-cart {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

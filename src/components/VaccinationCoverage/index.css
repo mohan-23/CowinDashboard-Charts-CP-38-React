@@ -1,0 +1,15 @@
+.by-date-cart {
+  background-color: #1c1c2b;
+  width: 100%;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 8px;
+}
+
+.by-date-heading {
+  color: #cbd5e1;
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 500;
+}

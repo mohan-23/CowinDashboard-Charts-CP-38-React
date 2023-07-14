@@ -1,0 +1,62 @@
+.bg-cart {
+  background-color: #161625;
+  display: flex;
+  flex-direction: column;
+  padding: 50px;
+}
+
+.website-logo {
+  height: 40px;
+  width: 40px;
+}
+
+.logo-cart {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.co-win-heading {
+  color: #2cc6c6;
+  font-family: 'Roboto';
+  font-size: 25px;
+  font-weight: 600;
+  margin-left: 10px;
+}
+
+.para {
+  color: #cbd5e1;
+  font-family: 'Roboto';
+  font-size: 25px;
+  font-weight: 500;
+  margin-left: 10px;
+}
+
+.loader {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.failure-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.failure-cart {
+  display: flex;
+  flex-direction: column;
+}
+
+.failure-logo {
+  height: 200px;
+  width: 200px;
+}
+
+.failure-heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 25px;
+  font-weight: 600;
+}
